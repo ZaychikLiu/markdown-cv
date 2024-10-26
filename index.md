@@ -6,8 +6,7 @@ title: Feiyang Liu's CV
 a160130k@gmail.com / liufeiyang@berkeley.edu
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://zaychikliu.github.io/">My personal website page</a>
 </div>
 
 
@@ -83,7 +82,7 @@ Intelligence Science, Automation Department
 
 ### Skills
 
-Pytorch, C++, RISC-V, webgl, javascript, OpenGL, OpenCV, Unity, Blender, Latex, markdown
+Pytorch, C++, RISC-V, webgl, html, javascript, OpenGL, OpenCV, Unity, Blender, Latex, markdown
 
 ### Research interests
 * Computer Vision
