@@ -3,8 +3,7 @@ layout: cv
 title: Feiyang Liu's CV
 ---
 # Feiyang Liu 刘飞扬
-a160130k@gmail.com
-liufeiyang@berkeley.edu
+a160130k@gmail.com / liufeiyang@berkeley.edu
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
